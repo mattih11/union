@@ -1,6 +1,6 @@
 ## Lizenz
 
-© 2026 Matthias Haase.
+© 2026 GitHub User mattih11/union
 
 Dieses Dokument ist lizenziert unter **Creative Commons Namensnennung – Nicht kommerziell 4.0 International (CC BY-NC 4.0)**.
 
