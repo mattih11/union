@@ -18,9 +18,11 @@ Ich freue mich, meinen neuen Teamplayer beim Amt kennenzulernen. Ich würde mich
 Ich habe mir vorgenommen offen zu reden über meine Fähigkeiten, über meine Sorgen. Ich möchte nichts, was mir nicht zusteht.
 
 ## NÄCHSTER BITTE 
-Ui, hier ist Stress! Die Dame ruft mich vor - ich hab vieles falsch gemacht. Warum bin ich hier, warum ist mein Lebenslauf nicht vollständig, warum hat die Hotline mir nicht schon alles gesagt? Oder hab ich es im Stress vergessen.
+Ui, hier ist Stress! Die Dame ruft mich vor - ich hab vieles falsch gemacht. Warum bin ich hier, warum ist mein Lebenslauf nicht vollständig, warum hat die Hotline mir nicht schon alles gesagt? Oder hab ich es im Stress vergessen?
 
-Ich rede offen über meine Eindrücke, ich glaube hier wollen alle helfen und geben sich Mühe. Ich sage, dass ich mich freue meine Sachbearbeiter kennenzulernen und dass ich die Hilfe zu schätzen weiß, dass ich mir Mühe gebe, nicht zu viel Stress zu verursachen und mich selbst kümmere, wo es geht. Hier gibt es viele Menschen, die Hilfe brauchen und wenige, die allen hwlfen, so gut sie können!
+Ich rede offen über meine Eindrücke, ich glaube hier wollen alle helfen und geben sich Mühe. Ich sage, dass ich mich freue meine Sachbearbeiter kennenzulernen und dass ich die Hilfe zu schätzen weiß, dass ich mir Mühe gebe, nicht zu viel Stress zu verursachen und mich selbst kümmere, wo es geht. Hier gibt es viele Menschen, die Hilfe brauchen und wenige, die allen helfen, so gut sie können!
+
+Zum Abschied lächeln wir uns an - hier wird geholfen, nicht verwaltet. Die Schlange macht Agnst, die Menschen beiderseits vom Schalter machen Hoffnung.
 
 Jetzt gehe ich zur nächsten Geschäftstelle, um meinen Beitrag zu reduzieren.
 Ich wünsche, dass viele diesen kurzen Weg kennen. Sowohl, die die Hilfe brauchen, als auch die, die sie suchen!
