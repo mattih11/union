@@ -24,3 +24,10 @@ Ich rede offen über meine Eindrücke, ich glaube hier wollen alle helfen und ge
 
 Jetzt gehe ich zur nächsten Geschäftstelle, um meinen Beitrag zu reduzieren.
 Ich wünsche, dass viele diesen kurzen Weg kennen. Sowohl, die die Hilfe brauchen, als auch die, die sie suchen!
+
+## Die zweite Geschäftsstelle
+
+Irgendwie ist schreiben toll, das hab ich letzte Woche gemerkt. Ich möchte kürzer treten auch bei der Gewerkschaft aber die Schlange - kann ich das, darf ich das?
+Schreiben ist meine Lösung. Es hilft mir, es hilft allen Freunden. Ich muss nicht kürzer treten. Ich schreibe, wann ich will und wann ich es brauche. Ich stelle es hier hin, wer lesen will, liest, wer es verteilen will, der tut das - nicht meine Baustelle!
+
+An der zweiten Geschäftsstelle hängt ein Schild, es erinnert an den 2.Mai 1933. Ich hoffe, dass wir es denen, die Menschen helfen leicht in unserem Land machen!
