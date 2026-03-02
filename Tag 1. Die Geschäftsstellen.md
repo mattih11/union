@@ -31,3 +31,8 @@ Irgendwie ist schreiben toll, das hab ich letzte Woche gemerkt. Ich möchte kür
 Schreiben ist meine Lösung. Es hilft mir, es hilft allen Freunden. Ich muss nicht kürzer treten. Ich schreibe, wann ich will und wann ich es brauche. Ich stelle es hier hin, wer lesen will, liest, wer es verteilen will, der tut das - nicht meine Baustelle!
 
 An der zweiten Geschäftsstelle hängt ein Schild, es erinnert an den 2.Mai 1933. Ich hoffe, dass wir es denen, die Menschen helfen leicht in unserem Land machen!
+
+## Feierabend
+Ich stehe vor der Tür. Ich schreibe über das Schild. Ich gehe nicht rein. Die Dokmumente mach ich morgen. Mein erster Online Zugang ist abgelaufen. Ich habe letzte Woche einen neuen bekommen. er ist noch 8 Tage gültig! Die Sonne scheint, ich fahr heim, ich kann jetzt halbtags arbeiten, mir gehts super.
+
+Ich geh spazieren und Süßigkeiten kaufen! Das klingt nach nem guten Plan!
