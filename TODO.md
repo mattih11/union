@@ -16,6 +16,7 @@ Die ethischen Grundsätze des Hackens – Motivation und Grenzen:
     Öffentliche Daten nützen, private Daten schützen.
 
 ## Ethik der Gewerkschaft
+**Beispiel:** [Satzung des DGB](https://www.dgb.de/fileadmin/download_center/Beschl%C3%BCsse/Satzung_des_Deutschen_Gewerkschaftsbundes-_Stand_Mai_2022.pdf)
 Eine der wichtigen Forderungen des CCC steht in Einklang mit der Satzung der Gewerkschaft: Transparenz der Verwendung der notwendigen Mitgliedsbeitraege ist sehr wichtig. Die Verpflichtung, notwendigen IT-Dienstleistungen der Gewerkschaft auf einem Gewerkschafts-GitHub offenzulegen, hat viele Vorteile:
 - Auftragnehmer sind verpflichtet, transparent zu arbeiten
 - Die IT der Gewerkschaft kann kontrolliert werden:
