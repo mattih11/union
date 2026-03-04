@@ -88,6 +88,33 @@ uwork invoice my-project
 [18:35] Your maximum daily work time is exceeded, please enjoy your 'Feierabend' 
 ```
 
+#### Digitale Streiks
+Sollte es keine zufriedenstellende Einiging geben, so kann eine Streikleitung digitale Streiktage für Menschen einrufen, die nucht vir Ort streiken können. Das hat Vor- und Nachteile:
+- - die Belegschaft eines Unternehmens kann nicht gemeinschaftlich vor Ort sein und Öffentlichkeitswirksam die Arbeit niederlegen
+- + in langen Arbeitskämpfen ist es möglich, Gutes fur die Gesellschaft zu tun und OpenSource Projekte mit den Talenten der Streikenden anzugehen:
+  + eine Lernplattform zur Quellenkompetenz in Zeiten von KI bauen
+  + dieses GitHub Pflegen
+  + öffentlichkeitswirksam die entstandenen Anwendungen präsentieren: den Streik positiv nutzen
+  + Bei Social Media helfen
+  + Das Streikgeld digital verwalten und Streiktage dokumentieren
+ 
+```bash
+ustrike list
+Heute ist Streiktag. Wer streiken möchte kann:
+social - Videos und Bilder Schneiden
+vkgit - am GitHub arbeiten
+helpdesk - Menschen Remote Technik erklären
+```
+
+```bash
+ustrike start helpdesk
+Danke für die Unterstützung. Du wirst mit deinen KollegInnen im digitalen Streikraum verbunden. Viel Spaß beim digitalen Streik, toll, dass Ihr alle dabei seid!
+```
+
+digitales Management von Streikgeld Ansprüchen 
+
+ 
+
 # GitHub donations
 Ich habe gesehen, dass GitHub einen Spenden Button hat. Ich finde die Idee cool, meine Texte ueber die Arbeitslosigkeit gleich zu nutzen, um Spenden zu sammeln, die Menschen, die nach Arbeit suchen oder nicht in der Lage sind, eine Arbeit fuer sich zu finden, zu unterstuetzen. Es wäre cool, damit an [Sanktionsfrei](https://sanktionsfrei.de) und die [GFF](freiheitsrechte.org) zu spenden. Und ich denke, es waere ein schoenes Zeichen, dass alle Arbeitssuchenden Menschen durch Hilfe und auch die Personen bei der Agentur fuer Arbeit durch Entlastung davon profitieren koennen. Es ist schließlich so, dass [meine Eindruecke, als ich in der erschrenkend langen Schlange wartete](Tag%201.%20Die%20Gesch%C3%A4ftsstellen.md#die-schlange), dafuer gesorgt haben, dass ich dieses Projekt angefangen habe. Das sollte dann auch insbesondere gewürdigt werden, indem wir diesen Personen versuchen, das Leben zu erleichtern!
 
