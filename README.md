@@ -4,8 +4,10 @@ Ich denke, es entwickelt sich so vor sich hin, ich verfeinere immer ein bisschen
 ## Erfolgreiche, faire, gerechte Digitalisierung durch Mitbestimmung
 Ich denke, es entwickelt sich gerade zu einer praktischen Umsetzung dessen, was ich als Vertrauensmann meiner Gewerkschaft an meiner alten Uni vorstellen durfte: eine wissenschaftlich argumentierte Herleitung, warum betriebliche Mitbestimmungsmechanismen die Grundlage einer erfolgreichen Digitalisierung in Deutschland sind, und wie man das Umsetzen kann:
 - [Strategie Digitalisierung](Digitalisierung.md)
+
 Irgendwie entwickelt sich das gerade in ein konkretes Projekt, das praktisch zeigt, was ich da so hochtrabend ausgearbeitet habe:
 - [Ideensammlung](TODO.md)
+
 Ich schreibe immer ein bisschen weiter am Blog, und sammel nebenbei meine Ideen. Damit können wir:
 - Gewerkschaft digitalisieren
 - zivilgesellschaftliche Organisationen zusammenbringen
