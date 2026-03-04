@@ -20,6 +20,8 @@ Ich schreibe immer ein bisschen weiter am Blog, und sammel nebenbei meine Ideen.
   - Der Verwaltung helfen
   - Unterstützung einfach machen
 - Menschen, die keine Arbeit haben, helfen.
+- Menschen, die unzufrieden sind, zeigen wo Hilfe ist, und was man tun kann.
+Und damit hoffentlich unserer eigentlich schoenen Demokratie ein bisschen helfen!
 
 Alles ist CreativeCommons. Wenn was nicht stimmt, oder jemand mitmachen möchte: Das Repo ist auf. Ich möchte später aber klare Entscheidungsprozesse abbilden, die mit gewerkschaftlichen Mechanismen kompatibel sind. Eventuell könnte man Mitglieder zu Maintainern machen, und Nichtmitglieder dürfen aber natürlich Mitarbeiten. Das wäre dann quasi ein digitaler Vertrauenskörper. Damit wäre ein **Administrator** Teil der Vertrauenskörperleitung und würde gewählt werden.
 
