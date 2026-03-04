@@ -1,0 +1,2 @@
+# Bus
+Wenn man Bus fährt und den Gewerkschaftsnamen hört, dann fragt man natürlich mal nach. Als Vertrauensmann will man ja auch wissen, was die Leute so bewegt. Aktuell ist die Joblage schwierig. Aber mit Gewerkschaft gibt's wohl bessere Arbeitszeiten. Manchmal will man dann gleich erzählen, was noch so alles gut ist. Ich hör dann aber immer gar nicht mehr auf. Ich find es netter, jetzt ein bisschen zu schreiben. Dann kann das jede Person selbst zusammenpusseln, wie so eine kleine Schnitzeljagd!
