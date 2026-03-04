@@ -94,3 +94,4 @@ Auf meinen Bildungsurlaub konnte ich tolle Erfahrungen sammeln. Da sitzen Rentne
 - Bildungsurlaub kann finanzielle Hürden abbauen, an solchen Veranstaltungen teilzunehmen
 - Bildungsurlaub kann Sorgen bei der Kinderbetreuung nehmen
 - Bildungsurlaub kann Erholung, Hoffnung und Motivation in einer Woche verbinden
+- Bildungsurlaub kann Fremde zu Freunden machen
