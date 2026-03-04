@@ -1,6 +1,8 @@
 Diese Sammlung enthält Ideen fuer Projekte, die die digitale Tranformation als Chance für einen demokratischen, fairen, transparenten und trotzdem wettbewerbsfähigen Standort auf Basis von gewerkschaftlich organisierten Repositories skizzieren koennen!
 
-# Unser Geld - unser Code
+# Gemeinsame Ethik als Grundlage
+Als ich die Satzung meiner Gewerkschaft beim Vertrauensleuteseminar gesehen habe, da klingelte was im Kopf - da gab es doch diese:
+
 ## Hackerethik des CCC
 [Link](https://www.ccc.de/hackerethik)
 
@@ -17,6 +19,9 @@ Die ethischen Grundsätze des Hackens – Motivation und Grenzen:
 
 ## Ethik der Gewerkschaft
 **Beispiel:** [Satzung des DGB](https://www.dgb.de/fileadmin/download_center/Beschl%C3%BCsse/Satzung_des_Deutschen_Gewerkschaftsbundes-_Stand_Mai_2022.pdf)
+Wer sich die Zeit nimmt, einmal Querzulesen, der wird die Parallelen sofort sehen. Das ist doch so eine schöbe Grundlage!
+
+### Public money, Public code: Ein guter Einstieg in die Praxis
 Eine der wichtigen Forderungen des CCC steht in Einklang mit der Satzung der Gewerkschaft: Transparenz der Verwendung der notwendigen Mitgliedsbeitraege ist sehr wichtig. Die Verpflichtung, notwendigen IT-Dienstleistungen der Gewerkschaft auf einem Gewerkschafts-GitHub offenzulegen, hat viele Vorteile:
 - Auftragnehmer sind verpflichtet, transparent zu arbeiten
 - Die IT der Gewerkschaft kann kontrolliert werden:
