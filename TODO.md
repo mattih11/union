@@ -13,7 +13,7 @@ oder man übergibt die Hoheit direkt, damit das alles wertemäßig überprüft w
 
 # Unser Geld - unser Code
 ## Hackerethik des CCC
-[Link}(https://www.ccc.de/hackerethik)
+[Link](https://www.ccc.de/hackerethik)
 
 Die ethischen Grundsätze des Hackens – Motivation und Grenzen:
 
