@@ -12,10 +12,11 @@ Ich schreibe immer ein bisschen weiter am Blog, und sammel nebenbei meine Ideen.
 - Gewerkschaft digitalisieren
 - zivilgesellschaftliche Organisationen zusammenbringen
 - Leuten die komplizierten Konzepte von Gewerkschaftsarbeit nahebringen und direkt praktisch loslegen
-- OpenSource schaffen, die Digitalisierung einfach macht
+- OpenSource schaffen, die
+  - Digitalisierung einfach macht
   - faire Arbeit ermöglicht.
   - kleinen Unternehmen und FreiberuflerInnen hilft.
-- Menschen, die keine Arbeit haben helfen.
+- Menschen, die keine Arbeit haben, helfen.
 
 Alles ist CreativeCommons. Wenn was nicht stimmt, oder jemand mitmachen möchte: Das Repo ist auf. Ich möchte später aber klare Entscheidungsprozesse abbilden, die mit gewerkschaftlichen Mechanismen kompatibel sind. Eventuell könnte man Mitglieder zu Maintainern machen, und Nichtmitglieder dürfen aber natürlich Mitarbeiten. Das wäre dann quasi ein digitaler Vertrauenskörper. Damit wäre ein **Administrator** Teil der Vertrauenskörperleitung.
 
