@@ -1,15 +1,4 @@
-# GitHub donations 
-Ich habe gesehen, dass GitHub einen Spenden Button hat. 
-Es wäre cool, damit an [Sanktionsfrei](https://sanktionsfrei.de) und die [GFF](freiheitsrechte.org) zu spenden.
-Dann kann man ohne Stress und Organisation finanziell unterstützen.
-
-Pull request sollte möglich sein!
-
-Ich frag die mal, dann könnte man ein OpenCollective machen ohne dass man sich kümmern muss.
-
-vielleicht machen die dann einfach einen pull request.
-
-oder man übergibt die Hoheit direkt, damit das alles wertemäßig überprüft werden kann von den NGOs! Dann hab ich auch weniger Aufwand. Oder jemand beim CCC oder IGM hat Lust 
+Diese Sammlung enthält Ideen fuer Projekte, die die digitale Tranformation als Chance für einen demokratischen, fairen, transparenten und trotzdem wettbewerbsfähigen Standort auf Basis von gewerkschaftlich organisierten Repositories skizzieren koennen!
 
 # Unser Geld - unser Code
 ## Hackerethik des CCC
@@ -40,26 +29,27 @@ Eine der wichtigen Forderungen des CCC steht in Einklang mit der Satzung der Gew
   - Gute Software steht der Allgemeinheit zur Verfuegung!
   - ...
  
-    # Digitale Beschluesse zur Verwending von KI
-    Wir koennen klare Grenzen setzen, wo und wann die Gewerkschaft KI einsetzen moechte:
-    - wo gibt es keine Bessere Loesung?
-    - wo gehen wir den Kompromiss ein, und muessen den Oekologischen Impact tatsaechlich nutzen!
-    - Transparente Entscheidungen
-      - Gremien, wie VK und Versammlungen koennen auch digitale Entscheidungen und Beschluesse der Gewerkschaft transparent und nachvollziehbar machen und bieten damit eine ethische Kontrolle!
-    - Acquirierung von SpezialistInnen aus ethischer Motivation, nicht aus finanziellen Gruenden
+### Digitale Beschluesse zur Verwending von KI
+Wir koennen klare Grenzen setzen, wo und wann die Gewerkschaft KI einsetzen moechte:
+- wo gibt es keine Bessere Loesung?
+- wo gehen wir den Kompromiss ein, und wo ist der Oekologischen Impact mit besserer Software vermeidbar!
+- Transparente Entscheidungen
+- Gremien, wie VK und Versammlungen koennen auch digitale Entscheidungen und Beschluesse der Gewerkschaft transparent und nachvollziehbar machen und bieten damit eine ethische Kontrolle!
+- Acquirierung von SpezialistInnen aus ethischer Motivation, nicht aus finanziellen Gruenden
 
-# ExpertInnen-Pools fuer Beratungsleistungen
+## ExpertInnen-Pools fuer Beratungsleistungen
 Nicht alle Unternehmen kennen sich mit allen Fragen aus. Wo Fachwissen benoetigt ist, koennen wir ueberpruefbar ExpertInnen Betriebsraeten zur Seite stellen. Vielleicht ist jemand insbesondere durch Mitarbeit an Gewerkschaften aufgefallen. Das **muss** transparent und freiwillig geschehen, damit Vetternwirtschaft oder Vorwuerfe einer solchen kategorisch ausgeschlossen sind.
 
-  # Wir gehen mit gutem Beispiel voran
-  Wir koennen zeigen, wie eine digitale Gesellschaft positiv gestaltet werden kann, und dass Mechanismen, mit Transparenz, Datensparsamkeit und OpenSource besser sind, als Loesungen von Grosskonzernen, die uns abhaengig machen (Vendor-Lock-In). Wir koennen zeigen, dass Digitalisierung ohne Nachteil und demokratisch moeglich ist.
-  **Wir bringen Menschen die Digitalisierung praktisch nahe!**
+## Wir gehen mit gutem Beispiel voran
+Wir koennen zeigen, wie eine digitale Gesellschaft positiv gestaltet werden kann, und dass Mechanismen, mit Transparenz, Datensparsamkeit und OpenSource besser sind, als Loesungen von Grosskonzernen, die uns abhaengig machen (Vendor-Lock-In). Wir koennen zeigen, dass Digitalisierung ohne Nachteil und demokratisch moeglich ist.
+**Wir bringen Menschen die Digitalisierung praktisch nahe!**
 
 ## GitHub fuer Referenzimplementierungen
-Wir koennen Quelloffene Standards bereitstellen, die das Einhalten der tarifvertraglichen Regelungen sauber technisch einbetten. Ein APT-Repository von der Gewerkschaft, das als OpenSource Projekt entsteht, und auf Datensparsamkeit, Transparenz, und technologische Kontrolle setzt.
-- Es bietet einfache Tools, fuer kleine Unternehmen und Solo-Selbstaendige, bei Einhaltung ethischer Standards das **Tariftreuegesetzt** als USP zu nutzen, ohne unter Kosten für Papierkram und Orga zu leiden!
-- **IT-Standards** koennen zwischen Unternehmen und Selbststaendigen und Gewerkschaften geteilt werden und damit kosten sparen und Sicherheit erhoehen. Damit kann OpenSource helfen, den Einstieg in Zertifizierungen zu erleichtern und die Berhoerden, sowie die Personen, die ihre Arbeit geben, zu entlasten
+Wir koennen quelloffene Standards bereitstellen, die das Einhalten der tarifvertraglichen Regelungen sauber technisch einbetten. Ein APT-Repository von der Gewerkschaft, das als OpenSource Projekt entsteht, und auf **Datensparsamkeit**, **Transparenz**, und **technologische Kontrolle** setzt.
+- Es bietet einfache Tools, fuer kleine Unternehmen und Solo-Selbstaendige, bei Einhaltung ethischer Standards das **Tariftreuegesetzt** als **USP** zu nutzen, ohne unter Kosten für Papierkram und Orga zu leiden!
+- **IT-Standards** koennen zwischen Unternehmen und Selbststaendigen und Gewerkschaften geteilt werden und damit Kosten sparen und Sicherheit erhoehen. Damit kann OpenSource helfen, den Einstieg in Zertifizierungen zu erleichtern und die Berhoerden, sowie die Personen, die ihre Arbeit geben, zu entlasten
 - Die **Digitalisierung der Verwaltung** kann laenderuebergreifende Standards schaffen, bei der das Tariftreuegesetzt und gewerkschaftliche Arbeit ein echter Motor der Digitalisierung sein kann, und an die Forderung: **Oeffentliches Geld - Oeffentlicher Code** gekoppelt werden kann.
+- Gewerkschaftlich organisierte digitale Unternehmen werden auch attraktive ArbeitgeberInnen und zeigen, wie einfach, fair und demokratisch Digitalisierung umgesetzt werden kann.
 
 ### Beispiel:
 
@@ -91,3 +81,6 @@ uwork invoice my-project
 ```bash
 [18:35] Your maximum daily work time is exceeded, please enjoy your 'Feierabend' 
 ```
+
+# GitHub donations
+Ich habe gesehen, dass GitHub einen Spenden Button hat. Ich finde die Idee cool, meine Texte ueber die Arbeitslosigkeit gleich zu nutzen, um Spenden zu sammeln, die Menschen, die nach Arbeit suchen oder nicht in der Lage sind, eine Arbeit fuer sich zu finden, zu unterstuetzen. Es wäre cool, damit an [Sanktionsfrei](https://sanktionsfrei.de) und die [GFF](freiheitsrechte.org) zu spenden. Und ich denke, es waere ein schoenes Zeichen, dass alle Arbeitssuchenden Menschen durch Hilfe und auch die Personen bei der Agentur fuer Arbeit durch Entlastung davon profitieren koennen. Es ist schließlich so, dass meine Eindruecke, als ich in der erschrenkend langen Schlange wartete, dafuer gesorgt haben, dass ich dieses Projekt angefangen habe. Das sollte dann auch insbesondere gewürdigt werden, indem wir diesen Personen versuchen, das Leben zu erleichtern!
