@@ -16,7 +16,7 @@ Ich schreibe immer ein bisschen weiter am Blog, und sammel nebenbei meine Ideen.
   - Digitalisierung einfach macht
   - faire Arbeit ermöglicht.
   - kleinen Unternehmen und FreiberuflerInnen hilft.
-  - Das Tariftreuegesetz stärkt und USPs für tarifgebundene IT-Dienstleistungen schafft.
+  - Das Tariftreuegesetz stärkt und USPs für tarifgebundene IT-Dienstleistungen schafft und Einstiegshürden nimmt.
   - Der Verwaltung helfen
   - Unterstützung einfach machen
 - Menschen, die keine Arbeit haben, helfen.
