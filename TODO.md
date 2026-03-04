@@ -47,7 +47,10 @@ Eine der wichtigen Forderungen des CCC steht in Einklang mit der Satzung der Gew
     - Transparente Entscheidungen
       - Gremien, wie VK und Versammlungen koennen auch digitale Entscheidungen und Beschluesse der Gewerkschaft transparent und nachvollziehbar machen und bieten damit eine ethische Kontrolle!
     - Acquirierung von SpezialistInnen aus ethischer Motivation, nicht aus finanziellen Gruenden
-     
+
+# ExpertInnen-Pools fuer Beratungsleistungen
+Nicht alle Unternehmen kennen sich mit allen Fragen aus. Wo Fachwissen benoetigt ist, koennen wir ueberpruefbar ExpertInnen Betriebsraeten zur Seite stellen.
+
   # Wir gehen mit gutem Beispiel voran
   Wir koennen zeigen, wie eine digitale Gesellschaft positiv gestaltet werden kann, und dass Mechanismen, mit Transparenz, Datensparsamkeit und OpenSource besser sind, als Loesungen von Grosskonzernen, die uns abhaengig machen (Vendor-Lock-In). Wir koennen zeigen, dass Digitalisierung ohne Nachteil und demokratisch moeglich ist.
   **Wir bringen Menschen die Digitalisierung praktisch nahe!**
