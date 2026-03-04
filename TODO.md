@@ -84,3 +84,6 @@ uwork invoice my-project
 
 # GitHub donations
 Ich habe gesehen, dass GitHub einen Spenden Button hat. Ich finde die Idee cool, meine Texte ueber die Arbeitslosigkeit gleich zu nutzen, um Spenden zu sammeln, die Menschen, die nach Arbeit suchen oder nicht in der Lage sind, eine Arbeit fuer sich zu finden, zu unterstuetzen. Es wäre cool, damit an [Sanktionsfrei](https://sanktionsfrei.de) und die [GFF](freiheitsrechte.org) zu spenden. Und ich denke, es waere ein schoenes Zeichen, dass alle Arbeitssuchenden Menschen durch Hilfe und auch die Personen bei der Agentur fuer Arbeit durch Entlastung davon profitieren koennen. Es ist schließlich so, dass [meine Eindruecke, als ich in der erschrenkend langen Schlange wartete](Tag%201.%20Die%20Gesch%C3%A4ftsstellen.md#die-schlange), dafuer gesorgt haben, dass ich dieses Projekt angefangen habe. Das sollte dann auch insbesondere gewürdigt werden, indem wir diesen Personen versuchen, das Leben zu erleichtern!
+
+# Coole Aktionen
+- Man koennte gemeinsam mit den Menschen von Wikipedia, wie beim CCC-Kongress die Einträge von Gewerkschaften und NGOs pflegen. Ich fand das so eine tolle Idee, als ich gesehen hab, dass sich Menschen verabredet haben, um Wikipedia aufzuräumen. Beim CCC-Kongress sieht man aber so viel, da hätte ich die Ruhe nicht gehabt! Toll dass das Menschen machen.
