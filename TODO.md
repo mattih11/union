@@ -46,7 +46,7 @@ Eine der wichtigen Forderungen des CCC steht in Einklang mit der Satzung der Gew
     - wo gehen wir den Kompromiss ein, und muessen den Oekologischen Impact tatsaechlich nutzen!
     - Transparente Entscheidungen
       - Gremien, wie VK und Versammlungen koennen auch digitale Entscheidungen und Beschluesse der Gewerkschaft transparent und nachvollziehbar machen und bieten damit eine ethische Kontrolle!
-    - Acquirierung von Spezialisten aus ethischer Motivation, nicht aus finanziellen Gruenden
+    - Acquirierung von SpezialistInnen aus ethischer Motivation, nicht aus finanziellen Gruenden
      
   # Wir gehen mit gutem Beispiel voran
   Wir koennen zeigen, wie eine digitale Gesellschaft positiv gestaltet werden kann, und dass Mechanismen, mit Transparenz, Datensparsamkeit und OpenSource besser sind, als Loesungen von Grosskonzernen, die uns abhaengig machen (Vendor-Lock-In). Wir koennen zeigen, dass Digitalisierung ohne Nachteil und demokratisch moeglich ist.
