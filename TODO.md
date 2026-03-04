@@ -54,3 +54,40 @@ Nicht alle Unternehmen kennen sich mit allen Fragen aus. Wo Fachwissen benoetigt
   # Wir gehen mit gutem Beispiel voran
   Wir koennen zeigen, wie eine digitale Gesellschaft positiv gestaltet werden kann, und dass Mechanismen, mit Transparenz, Datensparsamkeit und OpenSource besser sind, als Loesungen von Grosskonzernen, die uns abhaengig machen (Vendor-Lock-In). Wir koennen zeigen, dass Digitalisierung ohne Nachteil und demokratisch moeglich ist.
   **Wir bringen Menschen die Digitalisierung praktisch nahe!**
+
+## GitHub fuer Referenzimplementierungen
+Wir koennen Quelloffene Standards bereitstellen, die das Einhalten der tarifvertraglichen Regelungen sauber technisch einbetten. Ein APT-Repository von der Gewerkschaft, das als OpenSource Projekt entsteht, und auf Datensparsamkeit, Transparenz, und technologische Kontrolle setzt.
+- Es bietet einfache Tools, fuer kleine Unternehmen und Solo-Selbstaendige, bei Einhaltung ethischer Standards das **Tariftreuegesetzt** als USP zu nutzen, ohne unter Kosten für Papierkram und Orga zu leiden!
+- **IT-Standards** koennen zwischen Unternehmen und Selbststaendigen und Gewerkschaften geteilt werden und damit kosten sparen und Sicherheit erhoehen. Damit kann OpenSource helfen, den Einstieg in Zertifizierungen zu erleichtern und die Berhoerden, sowie die Personen, die ihre Arbeit geben, zu entlasten
+- Die **Digitalisierung der Verwaltung** kann laenderuebergreifende Standards schaffen, bei der das Tariftreuegesetzt und gewerkschaftliche Arbeit ein echter Motor der Digitalisierung sein kann, und an die Forderung: **Oeffentliches Geld - Oeffentlicher Code** gekoppelt werden kann.
+
+### Beispiel:
+
+```bash
+apt install workwithunion
+```
+
+```bash
+uwork start my-project
+[13:37] Have a great day and enjoy creating cool things
+```
+
+```bash
+uwork stop my-project
+[18:37] Have a great day! The data transmitted:
+[Transmit-ID] 2026/09/12: 5 hours
+you can check the data we stored about you at uwork.xyz/my-project
+```
+
+```bash
+uwork invoice my-project
+[13:37] your invoice will be sent to the customer - have fun spending your well-earned money 
+```
+
+```bash
+[12:30] You didn't start your lunch break! Don't forget to drink and eat and have a walk in the sun!
+```
+
+```bash
+[18:35] Your maximum daily work time is exceeded, please enjoy your 'Feierabend' 
+```
