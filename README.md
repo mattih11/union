@@ -12,6 +12,7 @@ Ich schreibe immer ein bisschen weiter am Blog, und sammel nebenbei meine Ideen.
 - Gewerkschaft digitalisieren
 - zivilgesellschaftliche Organisationen zusammenbringen
 - Leuten die komplizierten Konzepte von Gewerkschaftsarbeit nahebringen und direkt praktisch loslegen
+- Gewerkschaften die komplizierten Konzepte von Digitalisierung nahebringen und direkt praktisch loslegen (das war eine Steilvorlage :D)
 - OpenSource schaffen, die
   - Digitalisierung einfach macht
   - faire Arbeit ermöglicht.
