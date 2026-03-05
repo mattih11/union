@@ -1,4 +1,5 @@
 # Moin
+![CyberVK](cybervk.png)
 **Was ist das hier?** Das weiß ich auch noch nicht genau. Ich habe in der Schlange beim Arbeitsamt [angefangen zu schreiben](blog).
 Ich denke, es entwickelt sich so vor sich hin, ich verfeinere immer ein bisschen.
 ## Erfolgreiche, faire, gerechte Digitalisierung durch Mitbestimmung
