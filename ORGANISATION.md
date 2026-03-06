@@ -1,6 +1,6 @@
 # Organisation
 Ich habe festgestellt, dass sich demokratische Strukturen sehr gut in GitHub abbilden lassen.
-Die unteren Grafiken zeigen, wie sich das Zusammenspiel aus Gewerkschaft, Mitgliedern und Öffentlichkeit in einem OpenSource Projekt abbilden lassen. Natürlich wäre es sinnvoll, hier weitere Unterprojekte anzulegen, die gleichen Mechanismen folgen, sodass es thematische GitHub-Projekte gibt. CyberVK könnte Templates bereitstellen, wenn Projekte im CyberVK beschlossen, und Arbeitsgruppen festgelegt sind. So können Verantwortliche in ihrem Projekt frei agieren und sind trotzdem der Satzung verpflichtet.
+Die unteren Grafiken zeigen, wie sich das Zusammenspiel aus Gewerkschaft, Mitgliedern und Öffentlichkeit in einem OpenSource Projekt abbilden lassen. Natürlich wäre es sinnvoll, hier weitere Unterprojekte anzulegen, die gleichen Mechanismen folgen, sodass es thematische GitHub-Projekte gibt. CyberVK könnte Templates bereitstellen, wenn Projekte im CyberVK beschlossen, und Arbeitsgruppen festgelegt sind. So können Verantwortliche in ihrem Projekt frei agieren und sind trotzdem der Satzung verpflichtet. Wer nicht warten möchte, kann natürlich immer forken und diee Bürokratie wird später erledigt, oder gar nicht. So gibt es lose und innergewerkschaftliche Zusammenarbeit, die nicht ausbremst, jedem alle Freiheiten gewährt, aber den Konsens im CyberVK trotzdem vereinen kann.
 
 ```mermaid
 flowchart TB
