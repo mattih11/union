@@ -2,6 +2,14 @@
 Ich habe festgestellt, dass sich demokratische Strukturen sehr gut in GitHub abbilden lassen.
 Die unteren Grafiken zeigen, wie sich das Zusammenspiel aus Gewerkschaft, Mitgliedern und Öffentlichkeit in einem OpenSource Projekt abbilden lassen. Natürlich wäre es sinnvoll, hier weitere Unterprojekte anzulegen, die gleichen Mechanismen folgen, sodass es thematische GitHub-Projekte gibt. CyberVK könnte Templates bereitstellen, wenn Projekte im CyberVK beschlossen, und Arbeitsgruppen festgelegt sind. So können Verantwortliche in ihrem Projekt frei agieren und sind trotzdem der Satzung verpflichtet. Wer nicht warten möchte, kann natürlich immer forken und diee Bürokratie wird später erledigt, oder gar nicht. So gibt es lose und innergewerkschaftliche Zusammenarbeit, die nicht ausbremst, jedem alle Freiheiten gewährt, aber den Konsens im CyberVK trotzdem vereinen kann.
 
+## Anonymität
+Da Gewerkschaftsarbeit nicht immer gern gesehen ist, lässt sich Anonymität herstellen, indem der eigene public key bei der Gewerkschaft registriert werden kann. Somit ist mit minimalen personenbeziehbaren Daten sichergestellt, dass das Wahlrecht sichergestellt ist, alle rechtlichen Rahmenbedingungen an gewerkschaltliche Arbeit eingehalten werden und niemand außen vor gelassen wird.
+
+## CyberJAV und CyberSBV und vielleicht auch CyberSRV?
+Typischerweise hat innerbetriebliche Mitbestimmung weitere Aspekte: Es gibt die JAV, die sich um Belange der Azubis und Studierenden und jungen Menschen kümmert. Dann gibt es die SBV, die das Gleiche für schwerbehinderte Menschen in Betrieben tut. Im Digitalen Raum könnten solche Menschen sich darum kümmern, dass Projekte in einfacher Sprache, einfacher Nutzbarkeit, für Menschen mit schlechter Sicht oder schlechtem Gehör zugänglich bleiben. Vielleicht braucht es gerade im Digitalen auch eine CyberSRV (**SeniorInnen- und RentnerInnenvertretung**). Das wäre schön, um auch alten Menschen, die noch nicht so digital aufgewachsen sind, Zugang und Teilhabe zu ermöglichen.
+
+Ich denke, das wäre auch für einen CyberVK wichtig, um nicht den Fokus auf diese Menschen zu verlieren.
+
 ```mermaid
 flowchart TB
 
