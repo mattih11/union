@@ -1,4 +1,5 @@
-Diese Sammlung enthält Ideen fuer Projekte, die die digitale Tranformation als Chance für einen demokratischen, fairen, transparenten und trotzdem wettbewerbsfähigen Standort auf Basis von gewerkschaftlich organisierten Repositories skizzieren koennen!
+**Diese Sammlung enthält Ideen** fuer Projekte, die die digitale Tranformation als Chance für einen demokratischen, fairen, transparenten und trotzdem wettbewerbsfähigen Standort auf Basis von gewerkschaftlich organisierten Repositories skizzieren koennen!
+Ich habe zusaetzlich angefangen, [konkrete Aufagaben als Issue zu definieren](https://github.com/mattih11/union/issues).
 
 # Gemeinsame Ethik als Grundlage
 Als ich die Satzung meiner Gewerkschaft beim Vertrauensleuteseminar gesehen habe, da klingelte was im Kopf - da gab es doch diese:
