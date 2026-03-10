@@ -4,18 +4,28 @@ Diese Sammlung enthält Ideen fuer Projekte, die die digitale Tranformation als 
 Als ich die Satzung meiner Gewerkschaft beim Vertrauensleuteseminar gesehen habe, da klingelte was im Kopf - da gab es doch diese:
 
 ## Hackerethik des CCC
-[Link](https://www.ccc.de/hackerethik)
+[Die ethischen Grundsätze des Hackens – Motivation und Grenzen](https://www.ccc.de/hackerethik):
+```
+Der Zugang zu Computern und allem, was einem zeigen kann,
+wie diese Welt funktioniert,
+sollte unbegrenzt und vollständig sein.
 
-Die ethischen Grundsätze des Hackens – Motivation und Grenzen:
+Alle Informationen müssen frei sein.
 
-    Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
-    Alle Informationen müssen frei sein.
-    Mißtraue Autoritäten – fördere Dezentralisierung.
-    Beurteile einen Hacker nach dem, was er tut, und nicht nach üblichen Kriterien wie Aussehen, Alter, Herkunft, Spezies, Geschlecht oder gesellschaftliche Stellung.
-    Man kann mit einem Computer Kunst und Schönheit schaffen.
-    Computer können dein Leben zum Besseren verändern.
-    Mülle nicht in den Daten anderer Leute.
-    Öffentliche Daten nützen, private Daten schützen.
+Mißtraue Autoritäten – fördere Dezentralisierung.
+
+Beurteile einen Hacker nach dem, was er tut,
+und nicht nach üblichen Kriterien wie Aussehen, Alter, Herkunft,
+Spezies, Geschlecht oder gesellschaftliche Stellung.
+
+Man kann mit einem Computer Kunst und Schönheit schaffen.
+
+Computer können dein Leben zum Besseren verändern.
+
+Mülle nicht in den Daten anderer Leute.
+
+Öffentliche Daten nützen, private Daten schützen.
+```
 
 ## Ethik der Gewerkschaft
 **Beispiel:** [Satzung des DGB](https://www.dgb.de/fileadmin/download_center/Beschl%C3%BCsse/Satzung_des_Deutschen_Gewerkschaftsbundes-_Stand_Mai_2022.pdf)
