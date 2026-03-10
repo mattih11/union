@@ -101,8 +101,8 @@ uwork invoice my-project
 
 #### Digitale Streiks
 Sollte es keine zufriedenstellende Einiging geben, so kann eine Streikleitung digitale Streiktage für Menschen einrufen, die nucht vir Ort streiken können. Das hat Vor- und Nachteile:
-- - die Belegschaft eines Unternehmens kann nicht gemeinschaftlich vor Ort sein und Öffentlichkeitswirksam die Arbeit niederlegen
-- + in langen Arbeitskämpfen ist es möglich, Gutes fur die Gesellschaft zu tun und OpenSource Projekte mit den Talenten der Streikenden anzugehen:
+- die Belegschaft eines Unternehmens kann nicht gemeinschaftlich vor Ort sein und Öffentlichkeitswirksam die Arbeit niederlegen
+- in langen Arbeitskämpfen ist es möglich, Gutes fur die Gesellschaft zu tun und OpenSource Projekte mit den Talenten der Streikenden anzugehen:
   + eine Lernplattform zur Quellenkompetenz in Zeiten von KI bauen
   + dieses GitHub Pflegen
   + öffentlichkeitswirksam die entstandenen Anwendungen präsentieren: den Streik positiv nutzen
