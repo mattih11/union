@@ -124,7 +124,15 @@ Danke für die Unterstützung. Du wirst mit deinen KollegInnen im digitalen Stre
 
 digitales Management von Streikgeld Ansprüchen 
 
- 
+# Digitale Tarifverhandlungen
+Unzufriedenheit mit Tarifabschlüssen begegnet mir sehr regelmäßig, wenn ich über Gewerkschaft spreche. Häufig sind unsere Mitglieder, die in die Verhandlung eingebunden waren aber zufrieden oder erklären, dass sie in der jeweiligen Situation das Maximum erreicht haben. der Frust sorgt leider meist wenig für eine stärkere Mobilisierung, die unsere Verhandlungsposition stärkt, sondern häufig lässt sich eher eine Distanzierung und geringere Motivation, zu kämpfen beobachten. ich habe gesehen, dass Verdi [Tarifbotschafter*innen](https://www.verdi.de/zusammen-geht-mehr/wir-suchen-dich-tarifbotschafterin-bist-du-dabei) sucht, um die Belegschaft enger in die Verhandlungen mit einzubinden und sowohl die Herausforderungen mitzuteilen und ebenso Rückmeldung zur Zufriedenheit zu erhalten.
+
+Gerade in weniger gut organisierten Betrieben ist das schwieriger möglich. Lässt sich die Tarifverhandlung, insbesondere die Wechselwirkung aus Mitgliedern und Stellvertretern in Verhandlungen durch Digitalisierung verbessern?
+- schnelle und knappe Veranschauflichung des aktuellen Standes und der Angebote
+- einfache und transparente Meinungsbildung und Feedback der Wünsche und Sorgen (Umfragen mit anonymer Veröffentlichung)
+- digitale Diskussionsplattformen
+
+**Ist es möglich, durch Digitalisierung der Tarifverhandlungen, die Mitglieder besser einzubinden und gleichzeitig die Verantwortung der Belegschaft für starke Mobilisierung und Kampfbereitschaft zu vermitteln?**
 
 # GitHub donations
 Ich habe gesehen, dass GitHub einen Spenden Button hat. Ich finde die Idee cool, meine Texte ueber die Arbeitslosigkeit gleich zu nutzen, um Spenden zu sammeln, die Menschen, die nach Arbeit suchen oder nicht in der Lage sind, eine Arbeit fuer sich zu finden, zu unterstuetzen. Es wäre cool, damit an [Sanktionsfrei](https://sanktionsfrei.de) und die [GFF](freiheitsrechte.org) zu spenden. Und ich denke, es waere ein schoenes Zeichen, dass alle Arbeitssuchenden Menschen durch Hilfe und auch die Personen bei der Agentur fuer Arbeit durch Entlastung davon profitieren koennen. Es ist schließlich so, dass [meine Eindruecke, als ich in der erschrenkend langen Schlange wartete](Tag%201.%20Die%20Gesch%C3%A4ftsstellen.md#die-schlange), dafuer gesorgt haben, dass ich dieses Projekt angefangen habe. Das sollte dann auch insbesondere gewürdigt werden, indem wir diesen Personen versuchen, das Leben zu erleichtern!
