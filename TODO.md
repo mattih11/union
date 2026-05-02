@@ -132,7 +132,7 @@ Gerade in weniger gut organisierten Betrieben ist das schwieriger möglich. Läs
 - einfache und transparente Meinungsbildung und Feedback der Wünsche und Sorgen (Umfragen mit anonymer Veröffentlichung)
 - digitale Diskussionsplattformen
 
-**Ist es möglich, durch Digitalisierung der Tarifverhandlungen, die Mitglieder besser einzubinden und gleichzeitig die Verantwortung der Belegschaft für starke Mobilisierung und Kampfbereitschaft zu vermitteln?**
+**Ist es möglich, durch Digitalisierung der Tarifverhandlungen, die Mitglieder besser einzubinden und gleichzeitig die Notwendigkeit einer stark mobilisierten und kampfbereiten Belegschaft als Grundlage guter Ergebnisse zu vermitteln?**
 
 # GitHub donations
 Ich habe gesehen, dass GitHub einen Spenden Button hat. Ich finde die Idee cool, meine Texte ueber die Arbeitslosigkeit gleich zu nutzen, um Spenden zu sammeln, die Menschen, die nach Arbeit suchen oder nicht in der Lage sind, eine Arbeit fuer sich zu finden, zu unterstuetzen. Es wäre cool, damit an [Sanktionsfrei](https://sanktionsfrei.de) und die [GFF](freiheitsrechte.org) zu spenden. Und ich denke, es waere ein schoenes Zeichen, dass alle Arbeitssuchenden Menschen durch Hilfe und auch die Personen bei der Agentur fuer Arbeit durch Entlastung davon profitieren koennen. Es ist schließlich so, dass [meine Eindruecke, als ich in der erschrenkend langen Schlange wartete](Tag%201.%20Die%20Gesch%C3%A4ftsstellen.md#die-schlange), dafuer gesorgt haben, dass ich dieses Projekt angefangen habe. Das sollte dann auch insbesondere gewürdigt werden, indem wir diesen Personen versuchen, das Leben zu erleichtern!
