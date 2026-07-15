@@ -61,6 +61,11 @@ Nicht alle Unternehmen kennen sich mit allen Fragen aus. Wo Fachwissen benoetigt
 Wir koennen zeigen, wie eine digitale Gesellschaft positiv gestaltet werden kann, und dass Mechanismen, mit Transparenz, Datensparsamkeit und OpenSource besser sind, als Loesungen von Grosskonzernen, die uns abhaengig machen (Vendor-Lock-In). Wir koennen zeigen, dass Digitalisierung ohne Nachteil und demokratisch moeglich ist.
 **Wir bringen Menschen die Digitalisierung praktisch nahe!**
 
+## CyberVK social media
+- interviews
+- podcasts
+- content
+
 ## GitHub fuer Referenzimplementierungen
 Wir koennen quelloffene Standards bereitstellen, die das Einhalten der tarifvertraglichen Regelungen sauber technisch einbetten. Ein APT-Repository von der Gewerkschaft, das als OpenSource Projekt entsteht, und auf **Datensparsamkeit**, **Transparenz**, und **technologische Kontrolle** setzt.
 - Es bietet einfache Tools, fuer kleine Unternehmen und Solo-Selbstaendige, bei Einhaltung ethischer Standards das **Tariftreuegesetzt** als **USP** zu nutzen, ohne unter Kosten für Papierkram und Orga zu leiden!
