@@ -8,6 +8,8 @@ Beim Amt besprechen wir dann, wie viele Bewerbungen pro Woche ich schreiben soll
 
 Dann spreche ich noch ein Thema an: Bildungsurlaub. Ich würde gerne in diesem Jahr wieder einen Bildungsurlaub von der Gewerkschaft machen. Da lernt man immer tolle Leute kennen, arbeitet an echt spannenden Themen und lernt eine Menge über Gesellschaft, Politik und Gewerkschaftsthemen. Ich erhalte die Antwort, dass ich doch meinen Urlaub dafür nehmen kann. Wir beide wissen nicht, ob mir Bildungsurlaub im ALG 1 zusteht. Das werde ich aber noch herausfinden. Als Vertrauensmann hört man häufiger, dass auch Arbeitgeber diese Antwort geben: "Nimm doch deinen Urlaub dafür...". Ich bin von dieser Antwort kein Fan, denn Arbeitnehmer*innen haben rechtlichen Anspruch auf Bildungsurlaub und ich denke es ist wie so häufig in der Arbeitswelt: Wenn wir unsere Rechte nicht wahrnehmen, dann wird es auch schnell zu No-Go Area, diese einzufordern.
 
+Ein Freund hat mir vorgestern genau von so einer Erfahrung berichtet: Als er Bildungsurlaub beantragte sei das nicht so gut bei der HR angekommen. Schade, dass es on vielen Unternehmen tatsächlich noch auf Widerstand stößt, wenn man Bildungsurlaub machen möchte. Eigentlich steht er uns rechtlich zu und es ärgert mich schon, wenn ich davon höre, wie einige Unternehmen damit umgehen.
+
 Ich mache deshalb auf dem Rückweg noch einen kurzer Abstecher zur Gewerkschafts-Geschäftsstelle. Bestimmt weiß dort jemand Bescheid. Mit zwei Mailadressen trete ich meinen Heimweg and und bin gespannt auf die Antworten.
 
 Zu Hause angekommen schreibe ich einige E-Mails und mache meine Bewerbungsunterlagen fit.
